@@ -6,15 +6,15 @@ const Orders = [
         status: 'Pending'
     },
     {
-        productName: 'Notebook Dell G15',
+        productName: 'Dell G15',
         productNumber: '2',
-        paymentStatus: 'Due',
-        status: 'Pending'
+        paymentStatus: 'Paid',
+        status: 'Active'
     },
     {
         productName: 'Iphone 15',
         productNumber: '3',
-        paymentStatus: 'Due',
-        status: 'Pending'
-    }
+        paymentStatus: 'Refunded',
+        status: 'Declined'
+    },
 ]
